@@ -1,4 +1,4 @@
-```yaml
+
 name: Solar System Workflow
 
 on:
@@ -62,4 +62,3 @@ jobs:
           name: Code-Coverage-Result
           path: coverage
           retention-days: 5
-```
